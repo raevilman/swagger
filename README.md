@@ -1,1 +1,1 @@
-# Repo for hosting swagger files
+https://raevilman.github.io/swagger/
